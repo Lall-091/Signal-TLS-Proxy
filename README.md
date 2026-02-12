@@ -20,6 +20,10 @@ docker compose build
 docker compose up --detach
 ```
 
+## Stability Policy
+
+We endeavor to provide updates to this repository thirty days in advance of them being required to use the Signal service, but may not always be able to do so for operational reasons. Proxy operators are advised to please check for updates at least once every thirty days, if not more often. You may use the instructions above to update as needed.
+
 ## Contributions welcome
 
 We want this proxy to be simple to deploy for a broad population, but we know that it won’t fit all deployments—especially  advanced users that already have running servers or specific technology preferences. We welcome contributions that make incremental improvements, updates, and improve compatibility, but aren’t considering significant architectural changes.
